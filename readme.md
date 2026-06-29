@@ -6,4 +6,5 @@ Añadimos contenido, lo pasamos a la staged area y  realizamos el primer commit.
 
 Hablamos sobre mensajes de los commits
 
+Conectamos con un remote en GitHub y lo usamos para editar
 
