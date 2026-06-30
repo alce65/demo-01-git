@@ -1,13 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta description="Demo de git">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Demo Git</title>
     <link rel="stylesheet" href="index.css">
     <script src="index.js"></script>
+    <script>    
+        const url = "https://api.github.com/repos/indra-internship/08-intro-git/commits";
+        const options = {
+            method: "GET",
+            headers: {
+                "Accept": "application/vnd.github.v3+json"
+            }
+        };
+
+    </script>
 </head>
 <body>
     <h1>Demo de git</h1>
+    <p>Este es un demo de git</p>
+    <div id="commits"></div>
 </body>
 </html>
