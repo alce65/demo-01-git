@@ -14,3 +14,5 @@ Ahora empezamos a trabajar con los remotos.
 
 Más adelante veremos las PR
 
+Comprobamos que pull es la suma de fetch y merge
+
