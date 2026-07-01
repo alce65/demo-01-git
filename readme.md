@@ -12,3 +12,5 @@ Hemos añadido ramas.
 
 Ahora empezamos a trabajar con los remotos
 
+Comprobamos que pull es la suma de fetch y merge
+
