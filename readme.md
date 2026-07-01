@@ -8,3 +8,7 @@ Hablamos sobre mensajes de los commits
 
 Conectamos con un remote en GitHub y lo usamos para editar
 
+Hemos añadido ramas.
+
+Ahora empezamos a trabajar con los remotos
+
