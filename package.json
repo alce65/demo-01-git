@@ -4,6 +4,8 @@
   "description": "Esto es una demo de cómo usar git, empezando con la creación de un repositorio.",
   "main": "index.js",
   "scripts": {
+    "test": "npm run test:ok",
+    "test:ok": "echo \"Simulated tests ok\" && exit 0",
     "test:error": "echo \"Error in the tests\" && exit 1",
     "prepare": "husky"
   },
